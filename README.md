@@ -19,12 +19,12 @@ A high-performance, multithreaded **filesystem indexer and search tool** written
 ---
 
 ## 📂 Project Structure
-├── include/            # indexer.hpp (class definition)
-├── src/                # indexer.cpp, search.cpp, main.cpp
-├── CMakeLists.txt      # CMake build config
-├── Dockerfile          # Docker container definition
-├── run_indexer.sh      # One-command build and run script
-└── README.md           # You're here!
+- ├── include/            # indexer.hpp (class definition)
+- ├── src/                # indexer.cpp, search.cpp, main.cpp
+- ├── CMakeLists.txt      # CMake build config
+- ├── Dockerfile          # Docker container definition
+- ├── run_indexer.sh      # One-command build and run script
+- └── README.md           # You're here!
 
 ---
 
